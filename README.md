@@ -1,6 +1,6 @@
-###Regul-000 
-- Hell0 :)
-- I’m interested most everything at different times or complex reason
-- Education, code, finance, in need of more tennis
-- This handle will be used to build statements
-- Hypothetically
+### User backround and interests 
+- ethics, inperfection and transparency
+- education, statehood, truth, and collaboration 
+- hobbies: fishing, outdoors, technology, telescoping and tennis
+- familyman, college athlete, real estate professional, contractor
+- answering life questions with complex reasoning
