@@ -1,6 +1,7 @@
 ### User backround and interests 
-- ethics, inperfection and transparency
-- education, statehood, truth, and collaboration 
-- hobbies: fishing, outdoors, technology, telescoping and tennis
-- familyman, college athlete, real estate professional, contractor
-- answering life questions with complex reasoning
+- ethics, team player and transparency
+- education, supporter of truth and genuine collaboration 
+- hobbies: geat teammates, boating, avid writer, telescoping, natural artists and tennis player
+- family-man, college dual sport athlete, real estate professional and contractor
+- answering life questions through observance and complex reasoning
+- thankful for the journey, humbled- thank you
