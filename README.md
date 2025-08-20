@@ -1,6 +1,6 @@
-### User backround and interests 
-- ethics, best pratice, team player and transparency
-- hobbies: boating, avid writer, telescoping, draw/paint/meditate and tennis
-- answering life questions through observance and complex reasoning
-- thankful for the journey and people
-- pilot mentality
+**Federal Technology Solutions Developer**
+Five Eyes Secure Innovation Framework Implementation
+Congressional Mandate Compliance Solutions (DTAG WG3 2019)
+FIPS 140-3 Level 2 Validated | Progressing to Level 3
+Multi-Sovereign Data Governance & SBOM Automation
+CAGE: 9WY27 | SAM.gov Active | Security Clearance Capable
