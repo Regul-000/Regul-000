@@ -1,0 +1,10 @@
+Security mitigation and data minimization
+
+“Supporting federal agencies and defense contractors through compliance-first innovation”
+
+Step.	Action.	Resources/Tools.
+1. Gather & Organize. Collect all docs (SSP, SBOM, policies). Remove duplicates, outdated versions.	FedRAMP Templates (e.g., SSP, Security Controls Baseline Excel).
+2. Verify Compliance	Cross-check against NIST 800-53 Rev 5. For SBOM, use CISA's minimum elements (components, dependencies, vulnerabilities). Ensure HSM is FIPS 140-2/3 validated.	CISA SBOM Guidance; AuditBoard FedRAMP Checklist.
+3. Redact & Sanitize	Remove sensitive non-CUI data; ensure consistent formatting (e.g., PDF with searchable text).	Kiteworks FedRAMP Guide for privacy redaction.
+4. Review for Accuracy/Wording	Proofread for clarity, technical precision. Use tools like Grammarly or peer reviews.	FedRAMP Playbook for CSPs.
+5. Package & Submit	Bundle into a secure package; submit via FedRAMP's portal or agency sponsor.	FedRAMP.gov Rev 5 Docs.
